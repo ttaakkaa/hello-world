@@ -1,4 +1,3 @@
 # hello-world
-hello world tutorial
-
-hello world they say. 
+hello world tutorial.
+back. 
